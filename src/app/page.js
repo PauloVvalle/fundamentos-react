@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout>
       <Navbar></Navbar>
-      <Title>Fundamentos de React</Title>
+      <Title>Fundamentos de React!</Title>
 
       <form className='max-w-md mx-auto space-y-4' onSubmit={handleAddNote}>
         <div className='block'>
